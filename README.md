@@ -1,4 +1,4 @@
-# banco_afro_project
+# Extrato App
 
 A new Flutter project.
 
